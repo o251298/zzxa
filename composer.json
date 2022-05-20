@@ -1,0 +1,23 @@
+{
+    "name": "oleg251298/test",
+    "description": "my first package",
+    "authors": [
+        {
+            "name": "o251298",
+            "email": "o251298@gmail.com"
+        }
+    ],
+    "require": {
+        "php" : ">=7.2.0"
+    },
+    "require_dev": {
+      "php" : ">=7.2.0" 
+    },
+    "minimum-stability": "stable",
+    "prefer-stable" : true,
+    "autoload": {
+        "psr-4": {
+            "ctrlv\\HelloWorld\\": "src/"
+        }
+    }
+}
