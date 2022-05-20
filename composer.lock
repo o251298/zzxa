@@ -11,7 +11,7 @@
     "minimum-stability": "beta",
     "stability-flags": [],
     "prefer-stable": true,
-    "prefer-lowest": false,
+    "prefer-lowest": true,
     "platform": {
         "php": ">=7.2.0"
     },

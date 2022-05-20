@@ -14,7 +14,7 @@
       "php" : ">=7.2.0" 
     },
     "license": "MIT",
-    "minimum-stability": "beta",
+    "minimum-stability": "alpha",
     "prefer-stable" : true,
     "autoload": {
         "psr-4": {
