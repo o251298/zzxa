@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '5f48946cd27ae56cf542bb6cfc37d220c1f1d8b3',
+    'reference' => 'a1bac3c43938791b1c8e84234e1fb8b089efc761',
     'name' => 'oleg251298/test',
   ),
   'versions' => 
@@ -18,7 +18,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '5f48946cd27ae56cf542bb6cfc37d220c1f1d8b3',
+      'reference' => 'a1bac3c43938791b1c8e84234e1fb8b089efc761',
     ),
   ),
 );
