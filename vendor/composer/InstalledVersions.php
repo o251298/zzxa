@@ -30,7 +30,7 @@ class InstalledVersions
     'aliases' => 
     array (
     ),
-    'reference' => 'a1bac3c43938791b1c8e84234e1fb8b089efc761',
+    'reference' => '14442a9757b3b98f8c129dbd14512660fd3bde5a',
     'name' => 'oleg251298/test',
   ),
   'versions' => 
@@ -42,7 +42,7 @@ class InstalledVersions
       'aliases' => 
       array (
       ),
-      'reference' => 'a1bac3c43938791b1c8e84234e1fb8b089efc761',
+      'reference' => '14442a9757b3b98f8c129dbd14512660fd3bde5a',
     ),
   ),
 );

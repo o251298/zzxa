@@ -13,7 +13,7 @@
     "require_dev": {
       "php" : ">=7.2.0" 
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "beta",
     "prefer-stable" : true,
     "autoload": {
         "psr-4": {
